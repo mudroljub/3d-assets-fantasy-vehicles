@@ -1,0 +1,13 @@
+The Drakenarc Airship is a multi-part model which is scaled to allow mini placement.  There are pre-supported and unsupported options.
+
+Also included is a stand.
+
+This model is recommend for experienced hobbyists.
+
+
+Having unlocked the secrets of flight through the Archanical Bile fueled Barrel-tech put to use in the Sky barges and patrol vessels, the Great Warlock sought to top all by commissioning the Gaffers Guild with their greatest feat yet, the Drakenarc Airship. Though it houses smaller fuel containment than the hulking Sky walrus barges, Drakenarcs are purpose-built for speed and maneuverability. Its canvas wings can be used to harness wind currents to its advantage as well as reserving fuel by lessening the weighty drag of the ship beneath. With Room atop for a Warlock commander and platforms on either side for additional troops, this ship requires a skilled Halfling pilot at the Stern and gunner at the Bow.
+
+The Drakenarc Airship has two versions in the download:
+
+    Main Folder – A folder containing the model pieces that are small enough to fit most printers.
+    Resin Pre-Supports – Contains the model with pre-generated supports for resin printing.
