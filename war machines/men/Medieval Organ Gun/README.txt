@@ -1,1 +1,0 @@
-Medieval Organ Gun / Ribauldequin by W_Rec on Thingiverse: https://www.thingiverse.com/thing:4905272
